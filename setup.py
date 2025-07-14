@@ -7,7 +7,7 @@ import random
 PATH_TO_TRAINING_DATA = os.getcwd() + "/../ur5e_sdg/training_data/Camera"
 WRITING_PATH = os.getcwd() + "/data"
 CLASSES = ["cube", "cone", "cylinder"]
-IMAGE_WIDTH = 854
+IMAGE_WIDTH = 640
 IMAGE_HEIGHT = 480
 
 def main():
