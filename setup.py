@@ -8,7 +8,7 @@ PATH_TO_TRAINING_DATA = os.getcwd() + "/../ur5e_sdg/training_data/Camera"
 WRITING_PATH = os.getcwd() + "/data"
 CLASSES = ["cube", "cylinder"]
 IMAGE_WIDTH = 1280
-IMAGE_HEIGHT = 960
+IMAGE_HEIGHT = 720
 
 def main():
     # Get the training data path
